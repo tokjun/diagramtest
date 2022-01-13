@@ -2,7 +2,7 @@
 
 Using https://plantuml.com/sequence-diagram:
 
-![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/tokjun/diagramtest/main/diagram_example.txt)
+![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/tokjun/diagramtest/main/diagram_example.txt)
 
 
 Using https://www.websequencediagrams.com/
