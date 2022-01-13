@@ -1,7 +1,7 @@
 @startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
+Robot -> MRI: Authentication Request
+Robot --> MRI: Authentication Response
 
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: Another authentication Response
+Robot -> MRI: Another authentication Request
+Robot <-- MRI: Another authentication Response
 @enduml
