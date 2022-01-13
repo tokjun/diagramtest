@@ -1,12 +1,7 @@
-JS Sequence Diagrams [![Bower](https://img.shields.io/bower/v/js-sequence-diagrams.svg)](https://libraries.io/bower/js-sequence-diagrams) [![Build Status](https://img.shields.io/travis/bramp/js-sequence-diagrams.svg)](https://travis-ci.org/bramp/js-sequence-diagrams) [![Code Climate](https://img.shields.io/codeclimate/github/bramp/js-sequence-diagrams.svg)](https://codeclimate.com/github/bramp/js-sequence-diagrams) [![Libraries.io](https://img.shields.io/librariesio/github/bramp/js-sequence-diagrams.svg)](https://libraries.io/github/bramp/js-sequence-diagrams) ![License](https://img.shields.io/npm/l/js-sequence-diagrams.svg)
 
 # diagramtest
 
-<script src="webfont.js"></script>
-<script src="snap.svg-min.js"></script>
-<script src="underscore-min.js"></script>
-<script src="sequence-diagram-min.js"></script>
-and now you have two options. You can manually parse the text:
+You can manually parse the text:
 <div id="diagram"></div>
 <script>
   var diagram = Diagram.parse("A->B: Message");
